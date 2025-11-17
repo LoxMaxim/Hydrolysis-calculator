@@ -38,7 +38,7 @@ Chang W, Cheng J, Allaire J, Sievert C, Schloerke B, Aden-Buie G, Xie Y, Allen J
 
 ### minpack.lm
 Elzhov TV, Mullen KM, Spiess A-N, Bolker B (2023). *minpack.lm: R Interface to the Levenberg-Marquardt Nonlinear Least-Squares Algorithm Found in MINPACK, Plus Support for Bounds*. R package version 1.2-4, https://CRAN.R-project.org/package=minpack.lm.
-<details>
+</details>
   
 ## License
 
