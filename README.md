@@ -1,10 +1,10 @@
-# Glycylglycine (GG) Kinetics Model — Shiny Application 🧪
+# Glycylglycine (GG) Kinetics Model — Shiny Application
 
 This repository contains an interactive **R Shiny application** for analyzing the **hydrolysis** and **cyclization kinetics** of **glycylglycine (GG)** into **cyclo-glycylglycine (cGG)** and **glycine (G)**. The application performs nonlinear kinetic fitting, optional robust weighting, glycine-only exponential fitting, and exports structured datasets.
 
 ---
 
-## Model Overview ⚛️
+## Model Overview️
 
 The kinetic scheme modeled is:
 
@@ -17,7 +17,7 @@ Background baselines for cGG and G are fitted. All rate constants are **exponent
 
 ---
 
-## Features ✨
+## Features
 
 * Interactive text-based data input
 * Nonlinear model fitting using **nls.lm** (from the **minpack.lm** package)
@@ -28,7 +28,7 @@ Background baselines for cGG and G are fitted. All rate constants are **exponent
 
 ---
 
-## Bibliography 📚
+## Bibliography
 
 <details>
 <summary>Citations for the R packages</summary>
